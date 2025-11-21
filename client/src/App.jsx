@@ -7,7 +7,7 @@ import Dashboard from './pages/admin/dashboard.jsx';
 import AddBlog from './pages/admin/addBlog.jsx';
 import ListBlog from './pages/admin/listBlog.jsx';
 import Comments from './pages/admin/comments.jsx';
-import Login from './components/admin/Login.jsx';
+import Login from './components/admin/login.jsx';
 import { useAppContext } from '../context/AppContext.jsx';
 import 'quill/dist/quill.snow.css';
 import Navbar from './components/Navbar.jsx';
